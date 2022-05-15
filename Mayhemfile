@@ -1,0 +1,7 @@
+project: rnshah9/mayhem-dump978
+target: dump978
+
+cmds:
+  - cmd: /repo/dump978
+  - cmd: /repo/uat2text
+    # filepath: /test.c
