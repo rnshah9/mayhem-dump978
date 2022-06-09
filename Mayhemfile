@@ -1,6 +1,5 @@
-project: rnshah9/mayhem-dump978
-target: dump978
+project: dump978
+target: uat2text
 
 cmds:
-  - cmd: /repo/dump978
   - cmd: /repo/uat2text
