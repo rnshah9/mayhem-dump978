@@ -2,4 +2,4 @@ project: dump978
 target: uat2text
 
 cmds:
-  - cmd: /repo/uat2text
+  - cmd: /uat2text
